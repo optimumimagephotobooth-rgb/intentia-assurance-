@@ -30,15 +30,20 @@
    - Standalone PDF (primary output)
    - Optional appendices as ZIP (if applicable)
 
-## What This Use Case Does Not Include
+## What Intentia Assurance Does Not Do
 
-- Programme design or development
-- Effectiveness assessment
-- Impact evaluation
-- Participant evaluation
-- Competence certification
-- Legal or HR advice
-- Ongoing monitoring or updates
+Intentia Assurance explicitly does not:
+
+- **Assess effectiveness** - We do not evaluate whether training achieved its goals
+- **Certify competence** - We do not certify that participants gained competence or capability
+- **Provide legal or HR advice** - We do not provide legal, HR, or organisational advice
+- **Interpret incidents** - We do not interpret or assess incidents, grievances, or disputes
+- **Evaluate participants** - We do not evaluate individual participants or outcomes
+- **Design or deliver training** - We do not design, develop, or deliver training programmes
+- **Assess impact** - We do not measure or assess impact or effectiveness
+- **Provide ongoing monitoring** - We do not provide ongoing monitoring or updates
+
+This file protects boundaries more than any contract.
 
 ## Boundaries
 

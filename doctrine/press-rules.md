@@ -1,5 +1,15 @@
 # Press Rules
 
+## The Press Process (Non-Negotiable)
+
+**Intake → Freeze → Output**
+
+This sequence is fixed. Nothing happens out of order.
+
+1. **Intake:** Structured collection of information and materials from client
+2. **Freeze:** Client confirmation of accuracy. Record is locked. No further changes permitted.
+3. **Output:** Mechanical assembly of final PDF artefact. No interpretation, no judgement.
+
 ## Core Principles
 
 Intentia Assurance operates as a press, not a consultancy or evaluation service.
@@ -8,24 +18,27 @@ Intentia Assurance operates as a press, not a consultancy or evaluation service.
 Records are assembled from client-provided materials. We do not interpret, evaluate, or assess.
 
 ### Rule 2: Freeze on Confirmation
-Once a client confirms accuracy, the record is frozen. No further changes are permitted.
+Once a client confirms accuracy, the record is frozen. No further changes are permitted. This is the press trigger.
 
-### Rule 3: Independence
+### Rule 3: No Edits After Freeze
+Frozen records cannot be edited. Corrections require a new record. Original records are never modified.
+
+### Rule 4: PDF is Final Artefact
+The PDF is the final, standalone record. No outcomes, no judgement, no interpretation.
+
+### Rule 5: Independence
 We declare our independence and do not provide training, assessment, or advice.
 
-### Rule 4: Counterfactual Boundaries
+### Rule 6: Counterfactual Boundaries
 Every record explicitly states what it does not guarantee or claim.
 
-### Rule 5: Chain of Custody
+### Rule 7: Chain of Custody
 All materials and processes are documented to establish a clear chain of custody.
 
-### Rule 6: Integrity Fingerprint
+### Rule 8: Integrity Fingerprint
 Every record includes a cryptographic hash (SHA-256) for independent verification.
 
-### Rule 7: Corrections Require New Records
-If errors are found after freeze, a new record must be created. Original records are never modified.
-
-### Rule 8: No Retroactive Interpretation
+### Rule 9: No Retroactive Interpretation
 Records capture intent and scope at a moment in time. They cannot be reinterpreted after the fact.
 
 ## Operational Boundaries
