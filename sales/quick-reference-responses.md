@@ -4,23 +4,39 @@
 
 ---
 
+## The One Sentence to Memorise
+
+**"We don't improve the story — we freeze the version that existed."**
+
+---
+
 ## The Three Core Responses (Memorize These)
 
-### 1. "Why should we pay for this?"
+### 1. "Why would we pay for this? Isn't this just paperwork?"
 
-"Internal documentation isn't independent. This creates a fixed, independent record that survives scrutiny. The £500 is for the independence and the freeze — once confirmed, nothing changes."
+"It is paperwork — but it's independent paperwork created at the right moment.
 
----
+Most organisations only try to document training after questions arise. By then, language drifts and intent gets rewritten.
 
-### 2. "Isn't this just paperwork?"
-
-"It's procedural assurance, not paperwork. The difference is the freeze mechanism and independence declaration. Once frozen, the record can't be reinterpreted. That prevents training from being retroactively judged against outcomes it was never intended to guarantee."
+We prevent that by fixing the record before hindsight sets in."
 
 ---
 
-### 3. "What if this is used against us?"
+### 2. "We already have training records internally."
 
-"The record documents what training was intended to do and what it was not intended to guarantee. It includes explicit counterfactual boundaries. If training is later questioned, the record shows what was promised and what wasn't. That protects you from claims that training was supposed to do something it wasn't designed for."
+"Most organisations do — but internal records are usually written by people who later become stakeholders in what the training is said to mean.
+
+Our role is to create a neutral, external record that doesn't evolve with internal pressures."
+
+---
+
+### 3. "Could this be used against us in a dispute?"
+
+"It could be referenced, yes — but it can't be reinterpreted or expanded.
+
+The record is deliberately limited: it documents intent, delivery, and explicit non-guarantees.
+
+That typically reduces exposure rather than increases it."
 
 ---
 
@@ -44,19 +60,52 @@
 
 ---
 
-### "Can you customise this?"
+### "Can we tweak the language to sound safer?"
 
-"We don't customise the structure. Consistency is what makes records credible. The content comes from your information, but the structure is fixed."
+"No — consistency and neutrality are what give the record credibility.
+
+If the language is softened, the value is lost."
+
+**Say this gently, but firmly.**
+
+---
+
+### "What exactly do we get at the end?"
+
+"A standalone, final PDF record that captures intent, delivery, boundaries, and integrity — designed to stand on its own years later."
+
+**If they ask "no portal?"**
+
+"Correct. The PDF is the product."
+
+---
+
+## What You Must NEVER Say
+
+**Never say:**
+
+- "This protects you legally"
+- "This guarantees safety"
+- "This proves compliance"
+- "This shows you did the right thing"
+- "This will help you win a case"
+
+**Those create liability.**
 
 ---
 
 ## Price Response
 
-**"What's the price?"**
+**"£500 feels high for a document."**
 
-"£500 per programme record."
+"The cost reflects independence, finality, and credibility under scrutiny — not page count.
 
-**Then silence.**
+This is usually purchased to avoid much larger costs later."
+
+**Then stop talking.**
+
+**Why silence matters:**
+CFOs understand risk pricing. Over-explaining weakens you.
 
 ---
 
