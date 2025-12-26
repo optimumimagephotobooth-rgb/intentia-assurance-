@@ -12,15 +12,19 @@
 
 ---
 
-## Programme Decision Record Pack
+## Programme Decision Record (PDR)
 
-**File:** `programme-decision-record-pack.md`
+**Files:** 
+- `programme-decision-record-template.md` (markdown reference)
+- `programme-decision-record-word-version.txt` (copy-paste ready for Word/Google Docs)
 
 **Purpose:** Second press - preserves why a training programme was commissioned before outcomes exist.
 
-**Use:** When documenting the decision to commission training (before delivery).
+**Use:** When documenting the decision to commission training (before delivery begins).
 
-**When to Offer:** Only after first Training Assurance Pack is delivered and client trusts the press.
+**When to Offer:** Only after first Training Assurance Pack is delivered and client trusts the press. Never lead with PDR.
+
+**Pricing:** £750–£1,000 (higher than Training Assurance Pack due to board-level value and pre-event protection)
 
 **Sections:** Fixed order - see template for details.
 
