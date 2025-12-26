@@ -6,11 +6,17 @@
 
 ---
 
-Please confirm that the information and materials provided accurately reflect the decision to commission [Programme Name] as understood at the time the decision was made.
+Please confirm that the information provided accurately reflects the programme decision as understood at the time the decision was made.
 
-Once confirmed, the record will be frozen and no changes can be made. Any corrections would require a new record.
+Upon confirmation, the Programme Decision Record will be frozen and no changes can be made. Any corrections or additions would require a new record.
+
+Please reply to confirm.
 
 ---
 
-**This email is the freeze lever. Do not customise it per client.**
+**This email is:**
+- neutral
+- procedural
+- non-negotiable
 
+**It is the press trigger.**
