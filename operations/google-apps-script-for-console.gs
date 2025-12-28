@@ -7,6 +7,12 @@
 
 function onFormSubmit(e) {
   try {
+    // Check if event object exists (required for form submit trigger)
+    if (!e || !e.range) {
+      Logger.log("Error: This function must be triggered by a form submission, not run manually.");
+      return;
+    }
+
     // ===== CONFIG =====
     const REGISTER_SHEET_NAME = "CASE_REGISTER";
 
@@ -118,5 +124,14 @@ function applyRowColour(sheet, rowNumber, status) {
   if (lastCol > 0) {
     sheet.getRange(rowNumber, 1, 1, lastCol).setBackground(colour);
   }
+}
+
+/**
+ * TEST FUNCTION - Only use this for testing, not for production
+ * This simulates a form submission for testing purposes
+ */
+function testFormSubmit() {
+  Logger.log("This function is for testing only. Use form submissions to trigger onFormSubmit.");
+  Logger.log("The onFormSubmit function must be triggered by a form submission event.");
 }
 
