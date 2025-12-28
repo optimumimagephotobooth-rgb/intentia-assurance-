@@ -33,3 +33,4 @@ Intentia Assurance
 - Do not attach anything
 - Do not explain hashing unless asked
 
+

@@ -139,3 +139,4 @@ If outcomes are already known → refuse.
 
 **This is how quiet, durable B2B infra grows.**
 
+

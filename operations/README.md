@@ -21,3 +21,4 @@ This directory contains operational tools and checklists for running Intentia As
 - Silence preserves authority
 - Infrastructure becomes valuable when it is boring to run
 
+

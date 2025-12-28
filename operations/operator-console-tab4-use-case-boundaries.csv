@@ -1,0 +1,5 @@
+Use Case,What This Includes,What This Explicitly Excludes,Immediate Refusal Triggers
+Training Assurance,"Intent as stated, scope, delivery facts","Outcomes, effectiveness, competence, evaluation","Asked ""Did it work?"" or ""What impact did this have?"""
+Programme Decision Record,"Decision context at time made","Judgement, hindsight, approval or rejection","Asked ""Was this the right decision?"""
+Strategic Intent / Evidence Pack,"Declared intent and exclusions","Performance guarantees, accountability transfer","Asked to certify success or readiness"
+

@@ -37,3 +37,4 @@ Write-Host "SHA-256:"
 Write-Host $hashValue
 Write-Host "metadata.txt written successfully."
 
+
